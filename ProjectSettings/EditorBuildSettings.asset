@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Detection.unity
     guid: 45d006f63dc4042759309291d2d84ffc
+  - enabled: 1
+    path: Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene 1.unity
+    guid: b4b1c7cf672c141088610edcdc669458
